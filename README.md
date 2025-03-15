@@ -20,7 +20,7 @@
 
 ### Version1: Student Management System  ![Version1 프로젝트 링크](https://github.com/kimauto/managements_program)
 
-### Version2: Employee Management System ![Version2 프로젝트 링크](https://github.com/Cmk1031/managements_program)
+### Version2: Employee Management System ![Version2 프로젝트 링크](https://github.com/kimauto/managements_program_version2)
 
 학생과 직원에 대한 통합 관리시스템을 구현하기 앞서 학생 관리 시스템을 Version1, 직원 관리 시스템을 Version2로 계획해 구현하고 통합했습니다. 
 
