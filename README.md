@@ -18,7 +18,7 @@
 
 ## 프로젝트 소개 
 
-### Version1: Student Management System  ![Version1 프로젝트 링크](https://github.com/Cmk1031/student_program)
+### Version1: Student Management System  ![Version1 프로젝트 링크](https://github.com/kimauto/managements_program)
 
 ### Version2: Employee Management System ![Version2 프로젝트 링크](https://github.com/Cmk1031/managements_program)
 
